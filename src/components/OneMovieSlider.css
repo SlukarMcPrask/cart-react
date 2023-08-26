@@ -9,7 +9,7 @@
     background-color: transparent;
     border: none;
     font-size: 35px;
-    color: #e50914;
+    color: green;
     cursor: pointer;
 }
 
@@ -26,6 +26,7 @@
     height: 400px;
     text-align: center;
     position: relative;
+    
 }
 
 .all-movies-content article {
